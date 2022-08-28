@@ -1,0 +1,3 @@
+Prepared an organization system on c++ in which an individual whether resident in the country or not can donate items such as money or goods, items can be given to the deprived people, to mosques and orphanages on behalf of the authentication letter. Also, a record of each and everything is maintained and last but not least file handling was also done on this program.
+
+(PS: gained full marks)
